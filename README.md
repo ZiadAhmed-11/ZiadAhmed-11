@@ -1,3 +1,4 @@
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f9bd7f161989951.63cea720e07d5.gif" alt="Italian Trulli">
 <h1 align="center">Hi 👋, I'm Ziad Ahmed A.</h1>
 <h3 align="center">Full-stack developer from Egypt</h3>
 
