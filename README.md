@@ -1,5 +1,13 @@
-<img src="" alt="services" class="img-fluid rounded shadow-sm">
-<h1 align="center">Hi 👋, I'm Ziad</h1>
+<h1 align="center">Hi 👋, I'm Ziad Ahmed A.</h1>
+<h3 align="center">Full-stack developer from Egypt</h3>
+
+- 🔭 I’m currently working on **freelancer**
+
+- 🌱 I’m currently learning **Laravel framework**
+
+- 💬 Ask me about **C++,php,mysql**
+
+- 📫 How to reach me **zeiad.ahmed202@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zeiadsharkawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeiadsharkawy" height="30" width="40" /></a>
