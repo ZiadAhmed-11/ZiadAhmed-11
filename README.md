@@ -1,6 +1,11 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f9bd7f161989951.63cea720e07d5.gif" alt="Italian Trulli">
 <h1 align="center">Hi 👋, I'm Ziad Ahmed A.</h1>
 <h3 align="center">Full-stack developer from Egypt</h3>
+<img align="right" alt="coding" width="400" src="https://cdn-icons-png.flaticon.com/512/4661/4661472.png"
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZiadAhmed-11&label=Profile%20views&color=0e75b6&style=flat" alt="ZiadAhmed-11" /> </p>
+
+
 
 - 🔭 I’m currently working on **freelancer**
 
